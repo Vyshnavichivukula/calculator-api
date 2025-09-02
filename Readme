@@ -8,4 +8,13 @@ A minimal REST API built with Spring Boot that performs basic arithmetic operati
 - Multiplication (`multiply`)
 - Division (`divide`) with divide-by-zero handling
 
-## Example Usage
+## Tech Stack
+- Java 17
+- Spring Boot 3.x
+- Maven
+
+## How to Run
+1. Clone the repository  
+2. Run `mvn spring-boot:run`  
+3. Open browser or use Postman to test:  
+   `http://localhost:8080/calculate?num1=10&num2=5&operation=multiply`
