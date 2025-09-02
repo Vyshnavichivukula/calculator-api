@@ -1,0 +1,11 @@
+# Simple Calculator API (Spring Boot)
+
+A minimal REST API built with Spring Boot that performs basic arithmetic operations.
+
+## Features
+- Addition (`add`)
+- Subtraction (`subtract`)
+- Multiplication (`multiply`)
+- Division (`divide`) with divide-by-zero handling
+
+## Example Usage
